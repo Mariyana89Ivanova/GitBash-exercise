@@ -1,4 +1,4 @@
 # GitBash-exercise
 GitBash
-Testing........
-Making conflict
+Conflict resolved
+
